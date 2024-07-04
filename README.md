@@ -1,7 +1,7 @@
 # :wave: Say hi to Jonathan :wave:
 
 ### About
-This repository contains the source code for Online Store.
+This repository contains the source code for Online Store. Created with Shopify Liquid.
 
 #### Live: https://jonathan-development-online-store.myshopify.com/
 
